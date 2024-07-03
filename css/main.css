@@ -1565,7 +1565,7 @@ footer .up i {
 .float {
     position: fixed;
     top: 330px;
-    left: 0px;
+    left: -1px;
     display: flex;
     flex-direction: column;
     z-index: 1400;
@@ -1595,7 +1595,7 @@ footer .up i {
 
 
 .float .whatsapp i {
-    font-size: 16px;
+    font-size: 20px;
     color: var(--C3-clair);
     transition: var(--main-transition) all;
 }
